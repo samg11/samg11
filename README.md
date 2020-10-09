@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Covid-19 Data Webapp
+- 🔭 I’m currently working on a Covid-19 Data Webapp
 - 🌱 I’m currently learning Go
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
