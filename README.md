@@ -1,4 +1,4 @@
-### Hello, my name is Sam and I write code.
+### Hello, my name is Sam.
 
 <!--
 **samg11/samg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
