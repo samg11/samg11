@@ -5,7 +5,7 @@
 -->
 ---
 <!-- 🔭 I’m currently working on a Covid-19 Data Webapp-->
-- 🌱 I’m currently learning mongodb using python with the pymongo module
+- 🌱 I’m currently learning firebase
 - 👯 If you are looking to collaborate on a social media app, please email me.
 - 📫 How to reach me: sam.girshovich@gmail.com
 <!-- - ⚡ Fun fact: ... -->
