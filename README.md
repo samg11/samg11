@@ -6,6 +6,3 @@
 ---
 
 - My main language is Python
-- Co-founder and CEO of slakr tech
-- 👯 If you are looking to collaborate on a social app, please email me.
-- 📫 How to reach me: sam.girshovich@gmail.com
