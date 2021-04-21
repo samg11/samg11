@@ -7,3 +7,6 @@
 
 - My main language is Python
 - I am interested in computer networks, blockchain, and iot
+- Favorite Quote:
+
+   "Intelligence is the ability to avoid doing work, yet getting the work done." - LINUS TORVALDS
