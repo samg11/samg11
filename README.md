@@ -11,6 +11,8 @@
 - Favorite Quote:
 
    "Intelligence is the ability to avoid doing work, yet getting the work done." - LINUS TORVALDS
+<br>
 
 ETH:  0x80c8F7A766a426a039449Ad0Ae7670661E2359Df
+<br>
 DOGE: D6KHfDxt52d4AWjftcVP9n8TFn8CLC7MMi
