@@ -6,7 +6,7 @@
 ---
 
 - 🌙 Will code for dogecoin
-- 🐍 My main language is Python
+- 🐍 My main language is nodejs
 - I am interested in computer networks, blockchain, and web apps
 - Favorite Quote:
 
