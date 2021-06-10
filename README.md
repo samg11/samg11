@@ -7,7 +7,7 @@
 
 - 🌙 Will code for dogecoin
 - 🐍 My main language is Python
-- I am interested in computer networks, blockchain, and iot
+- I am interested in computer networks, blockchain, and web apps
 - Favorite Quote:
 
    "Intelligence is the ability to avoid doing work, yet getting the work done." - LINUS TORVALDS
