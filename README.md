@@ -13,8 +13,6 @@
 [![samg11's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samg11&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌙 Will code for dogecoin
-- Future fighter pilot
 - My main language is python
-- I am interested in computer networks, blockchain, and web apps
+- I am interested in computer networks, cybersecurity, and web apps
 
