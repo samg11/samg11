@@ -14,5 +14,5 @@
 
 
 - My main language is python
-- I am interested in computer networks, cybersecurity, and web apps
+- I am interested in computer networks and cybersecurity
 
