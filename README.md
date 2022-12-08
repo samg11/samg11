@@ -6,6 +6,7 @@
 **samg11/samg11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ---
+# To put it simply, I like jets and world affairs.
 
 ![samg11's GitHub stats](https://github-readme-stats.vercel.app/api?username=samg11&theme=prussian&show_icons=true)
 
